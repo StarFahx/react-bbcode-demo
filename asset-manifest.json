@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-bbcode-demo/static/css/main.0565e453.chunk.css",
-    "main.js": "/react-bbcode-demo/static/js/main.3cc415fe.chunk.js",
-    "main.js.map": "/react-bbcode-demo/static/js/main.3cc415fe.chunk.js.map",
+    "main.js": "/react-bbcode-demo/static/js/main.40720e39.chunk.js",
+    "main.js.map": "/react-bbcode-demo/static/js/main.40720e39.chunk.js.map",
     "runtime-main.js": "/react-bbcode-demo/static/js/runtime-main.afe5cd92.js",
     "runtime-main.js.map": "/react-bbcode-demo/static/js/runtime-main.afe5cd92.js.map",
-    "static/js/2.a4e749e7.chunk.js": "/react-bbcode-demo/static/js/2.a4e749e7.chunk.js",
-    "static/js/2.a4e749e7.chunk.js.map": "/react-bbcode-demo/static/js/2.a4e749e7.chunk.js.map",
+    "static/js/2.7090a380.chunk.js": "/react-bbcode-demo/static/js/2.7090a380.chunk.js",
+    "static/js/2.7090a380.chunk.js.map": "/react-bbcode-demo/static/js/2.7090a380.chunk.js.map",
     "index.html": "/react-bbcode-demo/index.html",
-    "precache-manifest.b79f63c1623b528368056d4b9993c642.js": "/react-bbcode-demo/precache-manifest.b79f63c1623b528368056d4b9993c642.js",
+    "precache-manifest.c2249723d6304f9657572eb1d552a29e.js": "/react-bbcode-demo/precache-manifest.c2249723d6304f9657572eb1d552a29e.js",
     "service-worker.js": "/react-bbcode-demo/service-worker.js",
     "static/css/main.0565e453.chunk.css.map": "/react-bbcode-demo/static/css/main.0565e453.chunk.css.map",
-    "static/js/2.a4e749e7.chunk.js.LICENSE.txt": "/react-bbcode-demo/static/js/2.a4e749e7.chunk.js.LICENSE.txt"
+    "static/js/2.7090a380.chunk.js.LICENSE.txt": "/react-bbcode-demo/static/js/2.7090a380.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.afe5cd92.js",
-    "static/js/2.a4e749e7.chunk.js",
+    "static/js/2.7090a380.chunk.js",
     "static/css/main.0565e453.chunk.css",
-    "static/js/main.3cc415fe.chunk.js"
+    "static/js/main.40720e39.chunk.js"
   ]
 }
