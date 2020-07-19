@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-bbcode-demo/static/css/main.310bf24d.chunk.css",
-    "main.js": "/react-bbcode-demo/static/js/main.7bfb4777.chunk.js",
-    "main.js.map": "/react-bbcode-demo/static/js/main.7bfb4777.chunk.js.map",
+    "main.js": "/react-bbcode-demo/static/js/main.6c6c2f0c.chunk.js",
+    "main.js.map": "/react-bbcode-demo/static/js/main.6c6c2f0c.chunk.js.map",
     "runtime-main.js": "/react-bbcode-demo/static/js/runtime-main.afe5cd92.js",
     "runtime-main.js.map": "/react-bbcode-demo/static/js/runtime-main.afe5cd92.js.map",
     "static/js/2.36390eb2.chunk.js": "/react-bbcode-demo/static/js/2.36390eb2.chunk.js",
     "static/js/2.36390eb2.chunk.js.map": "/react-bbcode-demo/static/js/2.36390eb2.chunk.js.map",
     "index.html": "/react-bbcode-demo/index.html",
-    "precache-manifest.04a6e6d0aedb1821d7fcc2340fd8ab57.js": "/react-bbcode-demo/precache-manifest.04a6e6d0aedb1821d7fcc2340fd8ab57.js",
+    "precache-manifest.4b95d7e02de7d3f2f69ca87bfb4bd093.js": "/react-bbcode-demo/precache-manifest.4b95d7e02de7d3f2f69ca87bfb4bd093.js",
     "service-worker.js": "/react-bbcode-demo/service-worker.js",
     "static/css/main.310bf24d.chunk.css.map": "/react-bbcode-demo/static/css/main.310bf24d.chunk.css.map",
     "static/js/2.36390eb2.chunk.js.LICENSE.txt": "/react-bbcode-demo/static/js/2.36390eb2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.afe5cd92.js",
     "static/js/2.36390eb2.chunk.js",
     "static/css/main.310bf24d.chunk.css",
-    "static/js/main.7bfb4777.chunk.js"
+    "static/js/main.6c6c2f0c.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d13826f71f142db427abd5c9d9cb9fa7",
+    "revision": "e95ed78238f27a20570beef2d7936fda",
     "url": "/react-bbcode-demo/index.html"
   },
   {
-    "revision": "2ec6d57c091fd49317c5",
+    "revision": "c9b0498667e913e3db87",
     "url": "/react-bbcode-demo/static/css/main.310bf24d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-bbcode-demo/static/js/2.36390eb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ec6d57c091fd49317c5",
-    "url": "/react-bbcode-demo/static/js/main.7bfb4777.chunk.js"
+    "revision": "c9b0498667e913e3db87",
+    "url": "/react-bbcode-demo/static/js/main.6c6c2f0c.chunk.js"
   },
   {
     "revision": "05361fc10ddfc657b49d",
