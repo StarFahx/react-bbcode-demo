@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-bbcode-demo/precache-manifest.d5d5972426442018730be5e7796fac10.js"
+  "/react-bbcode-demo/precache-manifest.a06ba428902f3f0d0cee7e8e0e9532d2.js"
 );
 
 self.addEventListener('message', (event) => {
