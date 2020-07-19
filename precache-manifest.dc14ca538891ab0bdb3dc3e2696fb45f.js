@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4607a540986acd4f793fcfe68a976947",
+    "revision": "2645858a26ab001127d726d5b27b92bb",
     "url": "/react-bbcode-demo/index.html"
   },
   {
-    "revision": "08b4a99c7c52ea34ebcb",
-    "url": "/react-bbcode-demo/static/css/main.5f361e03.chunk.css"
+    "revision": "b892a752a37455176f86",
+    "url": "/react-bbcode-demo/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "bed22a77787ba434124d",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-bbcode-demo/static/js/2.9e8baf99.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08b4a99c7c52ea34ebcb",
-    "url": "/react-bbcode-demo/static/js/main.8dd942d7.chunk.js"
+    "revision": "b892a752a37455176f86",
+    "url": "/react-bbcode-demo/static/js/main.f8ea7134.chunk.js"
   },
   {
     "revision": "05361fc10ddfc657b49d",
     "url": "/react-bbcode-demo/static/js/runtime-main.afe5cd92.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/react-bbcode-demo/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/react-bbcode-demo/static/media/logo.ee7cd8ed.svg"
   }
 ]);
