@@ -1,0 +1,39 @@
+.modal .modal-close {
+    background-color: #a44;
+    width: 20px;
+    height: 20px;
+    line-height: 18px;
+    font-size: 0.8em;
+    text-align: center;
+    border: 2px #a00 solid;
+    float: right;
+    border-radius: 5px;
+}
+
+.modal {
+    width: 300px;
+    height: 170px;
+    margin-top: 70px;
+    margin-left: calc((100% - 302px - 2em) / 2);
+    background-color: white;
+    border: 1px solid #888;
+    padding: 1em;
+}
+
+.modal h1 {
+    margin-top: 0;
+}
+
+.modal-input input {
+    float: right;
+}
+
+.modal button {
+    margin-top: 10px;
+    float: right;
+    color: #ffffff;
+    background-color: #0088ff;
+    border: none;
+    width: 100px;
+    height: 30px;
+}

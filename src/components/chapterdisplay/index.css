@@ -1,0 +1,6 @@
+.chapter-display {
+    width: calc(70% - 2em);
+    margin: 45px 15% 0 15%;
+    background-color: #fff;
+    padding: 1em;
+}
