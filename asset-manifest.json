@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bbcode-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-bbcode-demo/static/js/main.8dd942d7.chunk.js",
+    "main.js.map": "/react-bbcode-demo/static/js/main.8dd942d7.chunk.js.map",
+    "runtime-main.js": "/react-bbcode-demo/static/js/runtime-main.afe5cd92.js",
+    "runtime-main.js.map": "/react-bbcode-demo/static/js/runtime-main.afe5cd92.js.map",
+    "static/js/2.9e8baf99.chunk.js": "/react-bbcode-demo/static/js/2.9e8baf99.chunk.js",
+    "static/js/2.9e8baf99.chunk.js.map": "/react-bbcode-demo/static/js/2.9e8baf99.chunk.js.map",
+    "index.html": "/react-bbcode-demo/index.html",
+    "precache-manifest.d8b13be62da8ae2f4ee4a837a2942fbb.js": "/react-bbcode-demo/precache-manifest.d8b13be62da8ae2f4ee4a837a2942fbb.js",
+    "service-worker.js": "/react-bbcode-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-bbcode-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9e8baf99.chunk.js.LICENSE.txt": "/react-bbcode-demo/static/js/2.9e8baf99.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-bbcode-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afe5cd92.js",
+    "static/js/2.9e8baf99.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8dd942d7.chunk.js"
+  ]
+}
